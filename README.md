@@ -24,4 +24,4 @@ Overall, attention mechanisms have become a fundamental component in many state-
 # Scraping Twitter
 Using Twint, scraping the tweets without the Tweet API limitations of 3200 tweets. Doing the sentiment analysis on the fetched data<br><br>
 The actual implementation served the political team to decide the location of the next meeting, and the overall sentiment after the political meetings happened<br><br>
-<img src="./pictures/TwintScraperOutput.png" alt="Desc" title="Desc Inter" width="2074" height="668"/><br><br>
+<img src="./pictures/TwintScraperOutput.png" alt="Desc" title="Desc Inter" width="1659" height="534"/><br><br>
